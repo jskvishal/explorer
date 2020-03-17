@@ -98,7 +98,7 @@
     "jest-serializer-vue": "^2.0.2",
     "lint-staged": "^9.2.0",
     "mini-css-extract-plugin": "^0.7.0",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.2",
     "moment-timezone": "^0.5.26",
     "node-notifier": "^5.4.0",
     "optimize-css-assets-webpack-plugin": "^5.0.3",
